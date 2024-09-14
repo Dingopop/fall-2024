@@ -1,0 +1,18 @@
+/* colors */
+
+/*
+60% of #6038C7 - Primary
+30% of #3857C7 - Secondary
+10% of #389FC7 - Accent
+*/
+
+:root {
+
+/* var(--dominantColor) !important; */
+--dominantColor: #6038C7;
+
+--secondaryColor: #3857C7;
+
+--accentColor: #389FC7;
+
+}
