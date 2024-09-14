@@ -2,7 +2,9 @@
 @import 'main.css';
 
 .test-font {
-
 color: red;
-
 }
+
+.test-font-2 {
+    color: red;
+    }
