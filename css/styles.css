@@ -79,6 +79,7 @@
 
     .first-paragraph-img {
       width: 100%;
+      display: none;
     }
 
   }
