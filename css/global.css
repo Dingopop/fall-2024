@@ -10,9 +10,9 @@
 
 /* var(--dominantColor) !important; */
 --dominantColor: #6038C7;
-
+/* var(--secondaryColor) !important; */
 --secondaryColor: #3857C7;
-
+/* var(--accentColor) !important; */
 --accentColor: #389FC7;
 
 }
